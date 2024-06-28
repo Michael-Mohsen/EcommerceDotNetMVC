@@ -1,0 +1,32 @@
+﻿@{
+
+    Layout = "/views/Shared/_AddLayout.cshtml";
+}
+@using Ecommerce1.Models;
+@model List<Product>
+
+
+	@*Ecommerce\books*@
+
+
+<div class="container mt-5">
+
+	<div class="main_section_2">
+		<div class="row">
+			@foreach (var item in Model)
+			{
+				<div class="col-lg-3 col-sm-4 mb-30">
+					<div class="main_box">
+						<h4 class="box_header h-70">@item.Name</h4>
+						<div class="box_img"><img src="@item.Image"></div>
+						<div class="description h-175">@item.Description</div>
+						<p class="price_text">Price <span style="color: #262626;">$ @item.Price</span></p>
+						<div class="content">
+							<div class="buy_bt"><a asp-action="AddToCart" asp-controller="Cart" asp-route-id="@item.ProductId">Add to Cart</a></div>
+						</div>
+					</div>
+				</div>
+			}
+		</div>
+	</div>
+</div>

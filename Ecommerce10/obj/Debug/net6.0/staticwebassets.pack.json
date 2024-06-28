@@ -1,0 +1,1421 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Ecommerce10.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Ecommerce10.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\IMG-20210728-WA0044.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\IMG-20210728-WA0044.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\animate.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\default-skin.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\default-skin.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\electronic.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\electronic.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\icomoon.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\jquery.mCustomScrollbar.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\jquery.mCustomScrollbar.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\meanmenu.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\nice-select.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\normalize.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\responsive.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\slick.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\css\\style.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\cssl\\style.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\cssl\\style.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fonts\\Berlin Sans FB Bold.ttf",
+      "PackagePath": "staticwebassets\\Ecommroot\\fonts\\Berlin Sans FB Bold.ttf"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\demo.html"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\selection.json"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\fontsl\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\Ecommroot\\fontsl\\icomoon\\style.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\1.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\2018-new-factory-direct-canvas-shoes-men-s-student-Korean-version-of-the-white-shoes-Jianbu.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\2018-new-factory-direct-canvas-shoes-men-s-student-Korean-version-of-the-white-shoes-Jianbu.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\21WISH23-BEIGE-0.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\21WISH23-BEIGE-0.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\51t0NqBqHuL._AC_UL1091_.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\51t0NqBqHuL._AC_UL1091_.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\FHD_monitor.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\FHD_monitor.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\GPT.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\GPT.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20210728-WA0044.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20210728-WA0044.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20230121-WA0075.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20230121-WA0075.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20230122-WA0029.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20230122-WA0029.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20230122-WA0030.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20230122-WA0030.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20230122-WA0032.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20230122-WA0032.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\IMG-20230122-WA0034.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\IMG-20230122-WA0034.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Introduction_SQL.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Introduction_SQL.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\JBL.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\JBL.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Mac OS.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Mac OS.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Moho.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Moho.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\OIP (1).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\OIP (1).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\OIP (2).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\OIP (2).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\OIP (3).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\OIP (3).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\OIP (4).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\OIP (4).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\OIP.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\OIP.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Paint pro.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Paint pro.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Parallels desktop.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Parallels desktop.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\R (1).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\R (1).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\R (2).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\R (2).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\R (3).jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\R (3).jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\R.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\R.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\RTX.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\RTX.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Roter.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Roter.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Slideshow.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Slideshow.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Sound_magic.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Sound_magic.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\Spring-Sweatshirts-For-Women-2018-Pink-women-s-Gown-With-A-Hood-Hoodies-Ladies-Solid-Long.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\Spring-Sweatshirts-For-Women-2018-Pink-women-s-Gown-With-A-Hood-Hoodies-Ladies-Solid-Long.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\USB_Hub.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\USB_Hub.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\WhatsApp Image 2023-05-17 at 09.00.59.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\WhatsApp Image 2023-05-17 at 09.00.59.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\airconditioner.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\airconditioner.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\airfrayer.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\airfrayer.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\atomicHabits.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\atomicHabits.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\backpack.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\backpack.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\bag.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\bag.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\banner-bg.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\banner-bg.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\be10e6650ffa910a27382bf2b054cb25.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\be10e6650ffa910a27382bf2b054cb25.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\bedroom_light.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\bedroom_light.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\bluetooth_wireless.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\bluetooth_wireless.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\book-1.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\book-1.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\book-2.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\book-2.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\book-3.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\book-3.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\book-4.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\book-4.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\book_icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\book_icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\booksoft.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\booksoft.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\call-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\call-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\charge.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\charge.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\check point.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\check point.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\clothing-shop.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\clothing-shop.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\coffee_machine.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\coffee_machine.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\computer-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\computer-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\computer.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\computer.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\coolingpad.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\coolingpad.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\corei9.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\corei9.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\data_protector.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\data_protector.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\deepWork.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\deepWork.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\dell.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\dell.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\desk.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\desk.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\dress-shirt-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\dress-shirt-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\electronic.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\electronic.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\flag-france.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\flag-france.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\flag-uk.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\flag-uk.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\footer-logo.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\footer-logo.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\forensic system.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\forensic system.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\godfather.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\godfather.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\home.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\home.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\iRobot.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\iRobot.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\internet security.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\internet security.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\jewellery.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\jewellery.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\jhumka-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\jhumka-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\kali linux.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\kali linux.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\kangan-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\kangan-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\laptop-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\laptop-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\laptop_stand.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\laptop_stand.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\lessons.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\lessons.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\logo.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\loveYourTeam.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\loveYourTeam.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\mail-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\mail-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\malwarebytes.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\malwarebytes.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\map-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\map-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\mobile-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\mobile-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\movavi.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\movavi.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\neklesh-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\neklesh-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\new_product1.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\new_product1.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\new_product2.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\new_product2.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\new_product3.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\new_product3.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\philips.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\philips.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\photo command.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\photo command.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular1.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular1.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular2.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular2.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular3.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular3.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular4.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular4.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular5.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular5.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\popular6.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\popular6.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\power.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\power.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\printer.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\printer.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\problem.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\problem.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\rich.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\rich.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\screen_protector.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\screen_protector.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\search-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\secondCommand.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\secondCommand.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\sign-out.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\sign-out.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\smarttv.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\smarttv.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\software-1.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\software-1.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\software-2.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\software-2.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\software-3.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\software-3.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\software-4.jpeg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\software-4.jpeg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\software.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\software.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\steaphnking.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\steaphnking.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\synology.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\synology.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\theonething.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\theonething.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\toggle-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\toggle-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\tshirt-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\tshirt-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\tumblr_9ac2925d54a695d8f26258fbb395d9a2_4589fe33_1280.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\tumblr_9ac2925d54a695d8f26258fbb395d9a2_4589fe33_1280.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\ubuntu.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\ubuntu.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\usbcharging.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\usbcharging.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\user-icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\user-icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\watch_icon.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\watch_icon.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\widescreen_video.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\widescreen_video.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\windows server.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\windows server.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\windows10.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\windows10.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\wired_mouse.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\wired_mouse.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\wireless_charge.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\wireless_charge.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\wireless_headphones.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\wireless_headphones.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\wireless_keyboard_mouse.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\wireless_keyboard_mouse.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\images\\women-clothes-img.png",
+      "PackagePath": "staticwebassets\\Ecommroot\\images\\women-clothes-img.png"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\imagesl\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\Ecommroot\\imagesl\\bg_1.jpg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\imagesl\\undraw_remotely_2j6y.svg",
+      "PackagePath": "staticwebassets\\Ecommroot\\imagesl\\undraw_remotely_2j6y.svg"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\custom.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\jquery-3.0.0.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\jquery-3.0.0.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\jquery.mCustomScrollbar.concat.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\jquery.mCustomScrollbar.concat.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\modernizer.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\plugin.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\plugin.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\js\\slider-setting.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\js\\slider-setting.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\jsl\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\jsl\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\jsl\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\jsl\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\jsl\\main.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\jsl\\main.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\jsl\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\jsl\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\jsl\\popper.min.js",
+      "PackagePath": "staticwebassets\\Ecommroot\\jsl\\popper.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\Ecommroot\\scssl\\style.scss",
+      "PackagePath": "staticwebassets\\Ecommroot\\scssl\\style.scss"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Github Projects\\Ecommerce\\Ecommerce10\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Ecommerce10.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Ecommerce10.props",
+      "PackagePath": "build\\Ecommerce10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Ecommerce10.props",
+      "PackagePath": "buildMultiTargeting\\Ecommerce10.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Ecommerce10.props",
+      "PackagePath": "buildTransitive\\Ecommerce10.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

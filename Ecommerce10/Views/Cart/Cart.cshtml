@@ -1,0 +1,187 @@
+﻿@using Ecommerce1.Models;
+@model List<CartItem>
+
+<h2>Cart</h2>
+
+
+    @*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- basic -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Cart</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="css/cart.css">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="css/responsive.css">
+    <!-- fevicon -->
+    <link rel="icon" href="images/fevicon.png" type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <!--  -->
+    <!-- owl stylesheets -->
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Poppins:400,700&display=swap&subset=latin-ext"
+          rel="stylesheet">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesoeet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+          media="screen">
+</head>
+
+<body>
+    <section class="h-100 h-custom" style="background-color: #eee;">
+        <div class="container h-100 py-5">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col">
+                    <div class="card shopping-cart" style="border-radius: 15px;">
+                        <div class="card-body text-black">
+                            <div class="row">
+                                <div class="col-lg-6 px-5 py-4">
+                                    <h3 class="mb-5 pt-2 text-center fw-bold text-uppercase">Your products</h3>
+
+                                    @if (Model != null && Model.Count > 0)
+                                    {
+                                        @foreach (var item in Model)
+                                        {
+                                            <div class="d-flex align-items-center mb-5">
+                                                <div class="flex-shrink-0">
+                                                    <img class="img-fluid" style="width: 150px;" alt="Generic placeholder image">@item.Image
+                                                </div>
+
+                                                <div class="flex-grow-1 ms-3">
+                                                    <a class="float-end text-black float-right" asp-action="RemoveFromCart" asp-controller="Cart" asp-route-id="@item.ProductId"><i class="fas fa-times"></i></a>
+                                                    <h5 class="text-primary">@item.Name</h5>
+
+                                                    <div class="d-flex align-items-center">
+                                                        <p class="fw-bold mb-0 me-5 pe-3 mr-5 font-weight-bold">@item.Price</p>
+
+                                                        <div class="def-number-input number-input safari_only">
+                                                            <button onclick="this.parentNode.querySelector('input[type=number]').stepDown()"
+                                                            class="minus"></button>
+
+                                                            <input class="quantity fw-bold text-black" min="0" name="quantity"
+                                                            value="1" type="number">@item.Quantity
+
+                                                            <button onclick="this.parentNode.querySelector('input[type=number]').stepUp()"
+                                                            class="plus"></button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+
+                                            </div>
+                                        }
+
+                                        
+                                    }
+                                    else
+                                    {
+                                        <h2>Your cart is empty.</h2>
+                                    }
+                
+                                    <div class="col-lg-6 px-5 py-4">
+                                        <h3 class="mb-5 pt-2 text-center fw-bold text-uppercase">Payment</h3>
+                                        <form class="mb-5">
+                                            <div class="form-outline mb-5">
+                                                <label class="form-label" for="typeText">Card Number</label>
+                                                <input type="text" id="typeText" class="form-control form-control-lg" siez="17" value="1234 5678 9012 3457" minlength="19" maxlength="19" />
+                                            </div>
+                                            <div class="form-outline mb-5">
+                                                <label class="form-label" for="typeName">Name on card</label>
+                                                <input type="text" id="typeName" class="form-control form-control-lg" siez="17" value="John Smith" />
+                                            </div>
+                                            <div class="row">
+                                                <div class="col-md-6 mb-5">
+                                                    <div class="form-outline">
+                                                        <label class="form-label" for="typeExp">Expiration</label>
+                                                        <input type="text" id="typeExp" class="form-control form-control-lg" value="01/22" size="7" id="exp" minlength="7" maxlength="7" />
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-6 mb-5">
+                                                    <div class="form-outline">
+                                                        <label class="form-label" for="typeText">Cvv</label>
+                                                        <input type="password" id="typeText" class="form-control form-control-lg" value="&#9679;&#9679;&#9679;" size="1" minlength="3" maxlength="3" />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <p class="mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit <a href="#!">obcaecati sapiente</a>.</p>
+                                            <button type="button" class="btn btn-primary btn-block btn-lg">Buy now</button>
+                                            <h5 class="font-weight-bold mt-5" style="position: absolute; bottom: 0;">
+                                                <a href="#!"><i class="fas fa-angle-left me-2 mr-3"></i>Back to shopping</a>
+                                            </h5>
+                                        </form>
+                                    </div>
+                                    
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Javascript files-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery-3.0.0.min.js"></script>
+    <script src="js/plugin.js"></script>
+    <!-- sidebar -->
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/custom.js"></script>
+</body>
+
+</html>
+    @*<table class="table">
+        <thead>
+            <tr>
+                <th>Product ID</th>
+                <th>Product Name</th>
+                <th>Image</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th></th>
+            </tr>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.ProductId</td>
+                        <td>@item.Name</td>
+                        <td>@item.Image</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.Price</td>
+                        <td>
+                        <form method="post">
+                            <input type="hidden"/>
+                            <button type="submit" class="btn btn-primary" asp-action="RemoveFromCart" asp-controller="Cart" asp-route-id="@item.ProductId">Remove from cart</button>
+                        </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </thead>
+    </table>*@
+
